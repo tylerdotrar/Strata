@@ -1,3 +1,8 @@
+> [!note]
+> **This fork was merged into mainline Strata version 0.2.17.**
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="app/host/public/brand/strata-lockup-dark.svg">
